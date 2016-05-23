@@ -4,8 +4,7 @@ import urllib2
 import re
 import thread
 import time
- 
-#糗事百科爬虫类
+
 class QSBK:
  
     #初始化方法，定义一些变量
